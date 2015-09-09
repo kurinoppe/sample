@@ -1,0 +1,851 @@
+Enter file contents here
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/contents.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>ハーブ図鑑</title>
+<meta name="keywords" content="ハーブ図鑑,育て方,効果,ハーブティー,アロマテラピー" />
+<meta name="description" content="ハーブ図鑑。ラベンダーやローズマリー、カモミールなど70種類以上のハーブを紹介しているハーブ図鑑です。" />
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+
+<!--スマホ対応-->
+<meta name="viewport"
+content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<link media="only screen and (max-device-width:480px)"
+href="../../css/smartphone.css" type="text/css" rel="stylesheet" />
+<link media="screen and (min-device-width:481px)" href="../../css/contents.css"
+type="text/css" rel="stylesheet" />
+<link href="../../css/contents.css" type="text/css" rel="stylesheet" />
+
+<!-- タッチアイコン -->
+<link rel="shortcut icon" href="../../image/favicon.ico" />
+<link rel="apple-touch-icon" href="http://www.myherb.jp/image/apple-touch-icon.png">
+
+<script type="text/javascript" src="../../scripts/jquery.js"></script>
+<!--文字サイズ大中小-->
+<script type="text/javascript" src="../../js/jquery.cookie.js"></script>
+<script type="text/javascript" src="../../js/jquery.textresizer.js"></script>
+<script type="text/javascript">
+jQuery(document).ready( function() {
+    jQuery( "#textsize a" ).textresizer({
+        target: "#center_contents",
+        type: "cssClass",
+        sizes:    [
+            "f1",
+            "f2",
+            "f3"
+                ]
+    });
+});
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'ja'}
+  </script>
+<!--Google Analytics-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-8581042-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- ページトップへ -->
+<script type="text/javascript">
+$(function() {
+	var topBtn = $('#page-top');	
+	topBtn.hide();
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 100) {
+			topBtn.fadeIn();
+		} else {
+			topBtn.fadeOut();
+		}
+	});
+	//スクロールしてトップ
+    topBtn.click(function () {
+		$('body,html').animate({
+			scrollTop: 0
+		}, 1000);
+		return false;
+    });
+});
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="ハーブのホームページＲＳＳフィード" href="http://rssc.dokoda.jp/r/6666cd76f96956469e7be39d750cc7d9/http/www.myherb.jp/">
+<style type="text/css">
+body,td,th {
+	font-family: "メイリオ", Meiryo, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "ＭＳ Ｐゴシック", "MS P Gothic", sans-serif;
+}
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="wrap">
+<div id="navi">
+<div id="navi_1"><!-- InstanceBeginEditable name="h1" -->
+    <h1>ハーブ図鑑。ラベンダーやローズマリー、カモミールなど70種類以上のハーブを紹介しているハーブ図鑑です。</h1>
+  <!-- InstanceEndEditable --></div>
+<div id="search">
+<div id="search_l">
+<form action="http://www.google.co.jp/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5129646742564735:2784152865" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="検索" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+</div>
+<div id="search_r">
+<ul id="textsize">
+    <li><a href="javascript:void(0)" class="f1" >小</a></li>
+    <li><a href="javascript:void(0)" class="f2" >中</a></li>
+    <li><a href="javascript:void(0)" class="f3" >大</a></li>
+</ul>
+</div>
+</div>
+</div><!-- #BeginLibraryItem "/Library/header.lbi" --><div id="header">
+		<div id="header_title">
+		<a href="http://www.myherb.jp/"><img src="../../image/main_image.jpg" alt="ハーブのホームページ" border="0" height="54" width="332" /></a></div>
+		<div id="header_banner"> <a href="http://www.herbshop.jp/" target="_blank"><img src="../../image/herbshop_banner.jpg" width="468" height="60" alt="ハーブとアロマのお店"></a> </div>
+</div>
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/globalnavi.lbi" --><div id="top_ad">
+<div id="top_ad_1">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ハーブbar_728 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-5129646742564735"
+     data-ad-slot="3220450067"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+	</div>
+<div id="globalNavi_wrap">
+		<ul id="globalNavi" class="sf-menu">
+				<li id="globalNavi_1"><a href="library.html">ハーブの種類</a>
+					<ul>
+						<li><a href="library.html">ハーブ図鑑</a></li>
+					</ul>
+				</li>
+				<li id="globalNavi_2"><a href="../contents/saibai/tuti.html">ハーブの育て方</a>
+					<ul>
+						<li><a href="../contents/saibai/tuti.html">土選び</a></li>
+						<li><a href="../contents/saibai/seed.html">種まきと植え付け</a></li>
+						<li><a href="../contents/saibai/mabiki.html">間引き方法</a></li>
+						<li><a href="../contents/saibai/fuyasu.html">ハーブを殖やす</a></li>
+						<li><a href="../contents/saibai/hiryou.html">肥料と水やり</a></li>
+						<li><a href="../contents/saibai/byouki.html">病害虫対策</a></li>
+						<li><a href="../contents/saibai/syuukaku.html">収穫と保存</a></li>
+						<li><a href="../contents/saibai/syuukaku_2.html">ハーブ別収穫方法</a></li>
+						<li><a href="../contents/saibai/fuyugosi.html">冬越し</a></li>
+						<li><a href="../contents/saibai/plants.html">ハーブと野菜の共栄</a></li>
+						<li><a href="../contents/saibai/point.html">育て方のポイント①</a></li>
+						<li><a href="../contents/saibai/point_2.html">育て方のポイント②</a></li>
+						<li><a href="../contents/saibai/check.html">ハーブ健康チェック</a></li>
+						<li><a href="../contents/saibai/yougo.html">ガーデニング用語集</a></li>
+					</ul>
+				</li>
+				<li id="globalNavi_3"><a href="../contents/rilax/index.html">ハーブ 特徴と効果</a>
+					<ul>
+						<li><a href="../contents/rilax/index.html">ハーブとは</a></li>
+						<li><a href="../contents/rilax/rilax.html">ハーブの定義</a></li>
+
+					  <li><a href="../contents/rilax/bus.html">ハーバルバス</a></li>
+						<li><a href="../contents/rilax/ichiran.html">効果一覧</a></li>
+						<li><a href="../contents/rilax/kounou.html">用途別効能一覧</a></li>
+						<li><a href="../contents/rilax/riyou.html">利用法別一覧</a></li                                                					>
+						<li><a href="../contents/hanakotoba/hana_1.html">ハーブ花言葉～愛～</a></li>
+						<li><a href="../contents/hanakotoba/hana_2.html">～幸福・別れ～</a></li>
+						<li><a href="../contents/hanakotoba/hana_3.html">～性格～</a></li>
+						<li><a href="http://click.linksynergy.com/fs-bin/click?id=bgc9kCxURgk&offerid=36671.10004633&type=3&subid=0" rel="nofollow" target="_blank">花言葉辞典</a></li>
+					</ul>
+				</li>
+				<li id="globalNavi_4"><a href="../contents/tea/tea.html">ハーブの使い方</a>
+					<ul>
+						<li><a href="../contents/tea/tea.html">ハーブティー</a></li>
+						<li><a href="../contents/tea/nomikata.html">ハーブティーの飲み方</a></li>
+						<li><a href="../contents/tea/sozai.html">素材の扱い方</a></li>
+						<li><a href="../contents/tea/tea_kouka.html">ハーブティーの効果１</a></li>
+						<li><a href="../contents/tea/tea_kouka_2.html">ハーブティーの効果２</a></li>
+						<li><a href="../contents/tea/popuri_1.html">ポプリとその歴史</a></li>
+						<li><a href="../contents/tea/popuri_2.html">ポプリの作り方</a></li>
+						<li><a href="../contents/tea/cooking.html">料理とハーブ</a></li>
+					</ul>
+				</li>
+<li id="globalNavi_5"><a href="../contents/aroma/aroma.html">アロマテラピー</a>
+<ul>
+<li><a href="../contents/aroma/aroma.html">アロマテラピーとは</a></li>
+<li><a href="../contents/aroma/seiyutoha.html">精油とは何か</a></li>
+<li><a href="../contents/aroma/method.html">精油の抽出方法</a></li>
+<li><a href="../contents/aroma/mechanism.html">アロマのメカニズム</a></li>
+<li><a href="../contents/aroma/mechanism_2.html">嗅覚と大脳辺縁系</a></li>						
+<li><a href="../contents/aroma/attention.html">精油を安全に使うために</a></li>
+						<li><a href="../contents/aroma/aroma_1.html">代表的な精油の紹介</a></li>
+						<li><a href="../contents/aroma/7_seiyu.html">精油の7分類</a></li>
+						<li><a href="../contents/aroma/blend.html">ノートとブレンド</a></li>   		
+						<li><a href="../contents/aroma/kouyou.html">香りの効用一覧</a></li>
+                        		<li><a href="../contents/aroma/seiyu.html">精油成分一覧</a></li>   		</ul>
+				</li>
+                <li id="globalNavi_6"><a href="../contents/rekisi/rekisi.html">ハーブの歴史</a>
+					<ul>
+						<li><a href="../contents/rekisi/rekisi.html">古代Ⅰ</a></li>
+						<li><a href="../contents/rekisi/kodai2.html">古代Ⅱ</a></li>
+						<li><a href="../contents/rekisi/kodai3.html">古代Ⅲ</a></li>
+						<li><a href="../contents/rekisi/tyuusei1.html">中世Ⅰ</a></li>
+						<li><a href="../contents/rekisi/tyuusei2.html">中世Ⅱ</a></li>
+						<li><a href="../contents/rekisi/tyuusei3.html">中世Ⅲ</a></li>
+						<li><a href="../contents/rekisi/tyuusei4.html">中世Ⅳ</a></li>
+						<li><a href="../contents/rekisi/kinsei1.html">近世Ⅰ</a></li>
+						<li><a href="../contents/rekisi/kinsei2.html">近世Ⅱ</a></li>
+
+				  </ul>
+				</li>
+				<li id="globalNavi_7"><a href="../information/herbgarden.html">ハーブ園・ガーデン</a>
+				</li>
+				<li id="globalNavi_8"><a href="http://photo.myherb.jp/" target="_blank">ハーブコミュニティ</a>
+				</li>
+		</ul>
+		<div id="globalNavi_bottom_wrap">
+			<ul id="globalNavi_bottom_left">
+				<li><a href="../exam/index.html"><img src="../../image/navi_btn_1.gif" alt="アロマテラピー検定" /></a></li>
+				<li><a href="http://photo.myherb.jp" target="_blank"><img src="../../image/navi_btn_2.gif" alt="ハーブ写真投稿" /></a></li>
+				<li><a href="http://recipe.myherb.jp/" target="_blank"><img src="../../image/navi_btn_5.gif" alt="ハーブレシピ投稿" /></a></li>
+				<li><a href="../information/shiryou.html"><img src="../../image/navi_btn_4.gif" alt="ハーブの資料集" /></a></li>
+			</ul>
+			<ul id="globalNavi_bottom_right">
+				<li><a href="http://www.herbshop.jp/" target="_blank"><img src="../../image/navi_btn_buy.jpg" alt="ハーブの購入はこちら" /></a></li>
+				<li><a href="../gallery/appli.html" rel="nofollow" target="_blank"><img src="../../image/navi_btn_appli.jpg" alt="無料スマホアプリ" /></a></li>
+			</ul>
+		</div>
+	</div>
+
+    <script type="text/javascript">
+    $(function(){
+        var Speed = "200";
+        $("#globalNavi li ul").css("display","none");
+        $("#globalNavi li").hover(
+            function(){
+                $(">ul:not(:animated)",this).css("visibility","visible").fadeIn(Speed);
+                $(">ul >li:not(:animated)",this).css("display","none").slideDown(Speed);
+                $(">ul >li ul",this).css("visibility","hidden");
+            },
+            function(){
+                $(">ul",this).fadeOut(Speed,function(){
+                    $("ul",this).css("visibility","hidden");
+                });
+                $(">ul >li",this).slideUp(Speed);
+            }
+        );
+    });
+    </script><!-- #EndLibraryItem --><!--コンテンツ開始-->
+    <!-- InstanceBeginEditable name="contents_top" -->    <!-- InstanceEndEditable -->
+<div id="contents">
+		<div id="left_contents">
+<div class="sponsor">　スポンサーリンク</div>
+<!--グーグルアドセンス-->
+<div id="ad_bar_120_90">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ハーブbar_120_90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:120px;height:90px"
+     data-ad-client="ca-pub-5129646742564735"
+     data-ad-slot="3427966065"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<!--左コンテンツ-->
+<!-- InstanceBeginEditable name="left_contents" -->
+<h4>　ハーブの種類</h4>
+<ul>
+              <li class="last_tr"><a href="library.html">ハーブ図鑑</a></li>
+</ul><!-- #BeginLibraryItem "/Library/left_library.lbi" -->			<ul class="acc" id="acc">
+				<li>
+					<h3><img src="../../image/liblary_navi_a.jpg" alt="ハーブの種類　ア" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sonota/a/a-thi.html">アーティチョーク</a></li>
+								<li><a href="herb/sonota/a/anisu.html">アニスヒソップ</a></li>
+								<li><a href="herb/sonota/a/aklanet.html">アルカネット</a></li>
+								<li><a href="herb/a/aloe.html">アロエ</a></li>
+								<li><a href="herb/a/aroma.html">アロマティカス</a></li>
+								<li><a href="herb/sonota/a/angelica.html">アンゼリカ</a></li>
+								<li><a href="herb/sonota/a/paseri.html">イタリアンパセリ</a></li>
+								<li><a href="herb/sonota/a/echina.html">エキナセア</a></li>
+								<li><a href="herb/sonota/a/eri.html">エリキャンペーン</a></li>
+								<li><a href="herb/sonota/a/elder.html">エルダー</a></li>
+								<li><a href="herb/sonota/a/olive.html">オリーブ</a></li>
+								<li><a href="herb/a/oregano.html">オレガノ</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ka.jpg" alt="ハーブの種類　カ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/ka/kamiture.html">カモミール</a></li>
+								<li><a href="herb/sonota/ka/kare.html">カレープラント </a></li>
+								<li><a href="herb/ka/cat.html">キャットニップ</a></li>
+								<li><a href="herb/sonota/ka/kyarawei.html">キャラウェイ </a></li>
+								<li><a href="herb/ka/kureson.html">クレソン</a></li>
+								<li><a href="herb/sonota/ka/red.html">クローバーレッド </a></li>
+								<li><a href="herb/ka/marrow.html">コモンマロウ</a></li>
+								<li><a href="herb/ka/cori.html">コリアンダー</a></li>
+								<li><a href="herb/sonota/ka/konfuri.html">コンフリー </a></td>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_sa.jpg" alt="ハーブの種類　サ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sa/salada.html">サラダバーネット</a></li>
+								<li><a href="herb/sonota/sa/safurawa-.html">サフラワー</a></li>
+								<li><a href="herb/sonota/sa/safuran.html">サフラン</a></li>
+								<li><a href="herb/sonota/sa/sansyou.html">サンショウ</a></li>
+								<li><a href="herb/sonota/sa/santolina.html">サントリナ</a></li>
+								<li><a href="herb/sonota/sa/san.html">サンフラワー</a></li>
+								<li><a href="herb/sonota/sa/siso.html">シソ</a></li>
+								<li><a href="herb/sonota/sa/jasumin.html">ジャスミン</a></li>
+								<li><a href="herb/sonota/sa/sutebia.html">ステビア</a></li>
+								<li><a href="herb/sa/se-ji.html">セージ</a></li>
+								<li><a href="herb/sa/geranium.html">センテッドゼラニウム</a></li>
+								<li><a href="herb/sa/stjohns.html">セントジョーンズワート</a></li>
+								<li><a href="herb/sonota/sa/soap.html">ソープワート</a></li>
+								<li><a href="herb/sonota/sa/sorel.html">ソレル</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ta.jpg" alt="ハーブの種類　タ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/ta/taimu.html">タイム</a></li>
+								<li><a href="herb/sonota/ta/taragon.html">タラゴン</a></li>
+								<li><a href="herb/sonota/ta/tanji.html">タンジー</a></li>
+								<li><a href="herb/sonota/ta/lion.html">タンデライオン</a></li>
+								<li><a href="herb/sonota/ta/tikori.html">チコリ</a></li>
+								<li><a href="herb/sonota/ta/tya-biru.html">チャービル</a></li>
+								<li><a href="herb/ta/chive.html">チャイブ</a></li>
+								<li><a href="herb/ta/dill.html">ディル</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_na.jpg" alt="ハーブの種類　ナ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sonota/na/nasuta.html">ナスタチウム</a></li>
+								<li><a href="herb/sonota/na/nigela.html">ニゲラ</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ha.jpg" alt="ハーブの種類　ハ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/ha/basil.html">バジル </a></li>
+								<li><a href="herb/ha/heart.html" >ハーツイーズ</a></li>
+								<li><a href="herb/sonota/ha/haibi.html">ハイビスカス</a></li>
+								<li><a href="herb/sonota/ha/hisoppu.html">ヒソップ </a></li>
+								<li><a href="herb/sonota/ha/fennel.html">フェンネル</a></li>
+								<li><a href="herb/sonota/ha/flax.html">フラックス</a></li>
+								<li><a href="herb/ha/bergamoto.html">ベルガモット</a></li>
+								<li><a href="herb/sonota/ha/hoppu.html">ホップ</a></li>
+								<li><a href="herb/sonota/ha/boriji.html">ボリジ</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ma.jpg" alt="ハーブの種類　マ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sonota/ma/masyumarou.html">マシュマロウ</a></li>
+								<li><a href="herb/ma/marjo.html">マジョラム</a></li>
+								<li><a href="herb/ma/marry.html">マリーゴールド</a></li>
+								<li><a href="herb/ma/mint.html" >ミント</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ya.jpg" alt="ハーブの種類　ヤ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sonota/ya/yarrow.html">ヤロウ </a></li>
+								<li><a href="herb/sonota/ya/yu-kari.html">ユーカリ</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_ra.jpg" alt="ハーブの種類　ラ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/ra/lavender.html">ラベンダー</a></li>
+								<li><a href="herb/ra/lamb.html">ラムズイヤー</a></li>
+								<li><a href="herb/sonota/ra/linden.html">リンデン</a></li>
+								<li><a href="herb/sonota/ra/ru.html">ルー</a></li>
+								<li><a href="herb/sonota/ra/ruba-bu.html">ルバーブ</a></li>
+								<li><a href="herb/sonota/ra/lady.html">レディースマントル</a></li>
+								<li><a href="herb/sonota/ra/gurasu.html">レモングラス </a></li>
+								<li><a href="herb/ra/vervena.html">レモンバーベナ</a></li>
+								<li><a href="herb/ra/melissa.html">レモンバーム</a></li>
+								<li><a href="herb/ra/bara.html">ローズ</a></li>
+								<li><a href="herb/ra/rosemary.html">ローズマリー</a></li>
+								<li><a href="herb/sonota/ra/laurel.html">ローリエ</a></li>
+								<li><a href="herb/ra/rocket.html" >ロケット</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<h3><img src="../../image/liblary_navi_wa.jpg" alt="ハーブの種類　ワ" width="24" height="24" /></h3>
+					<div class="acc-section">
+						<div class="acc-content">
+							<ul>
+								<li><a href="herb/sonota/wa/wild.html">ワイルドストロベリー</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+			</ul>
+			<script type="text/javascript" src="../../js/accordion.js"></script>
+			<script type="text/javascript">
+				var accordion=new TINY.accordion.slider("accordion");
+				accordion.init("acc","h3",1,0,"selected");
+				
+			</script>
+
+<!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+
+<p class="left_ad_600">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ハーブ_res_160_600_left -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5129646742564735"
+     data-ad-slot="2061869261"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+
+<div id="counter">
+            <span class="table_line_2">本日：</span> <img src="http://www.myherb.jp/cgi-bin/cm/cm.cgi?t" /><br />
+            <span class="table_line_2">昨日：</span> <img src="http://www.myherb.jp/cgi-bin/cm/cm.cgi?y" /><br />
+            現在の訪問者数：<img src="http://www.myherb.jp/cgi-bin/now/main.cgi" alt="現在" name="nc" id="now" /></div>
+
+	</div><!--左コンテンツここまで-->
+    
+	<div id="center_contents"><!--中央コンテンツ-->
+    		<!-- InstanceBeginEditable name="center_contents_title" -->    <h2>ハーブ図鑑</h2>
+<div id="top_sns">
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.myherb.jp%2F&amp;layout=button_count&amp;show_faces=true&amp;width=100&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:115px; height:21px;" allowtransparency="true"></iframe>
+		　<g:plusone size="medium" href="http://www.myherb.jp/"></g:plusone>
+		<a rel="nofollow" href="http://b.hatena.ne.jp/entry/http://www.myherb.jp/" class="hatena-bookmark-button" data-hatena-bookmark-title="ハーブのホームページ" data-hatena-bookmark-layout="simple-balloon" title="このエントリーをはてなブックマークに追加"><img src="http://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+		　<a rel="nofollow" href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kamiturejp" data-lang="ja">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js" charset="UTF-8"></script>
+</div>    
+<!-- InstanceEndEditable -->
+<div id="center_contents_main">
+		<!-- InstanceBeginEditable name="center_contents" -->
+<div id="library_table_wrap">
+
+<div class="library_table">
+<div class="library_table_l"><img src="../../image/liblary_navi_a.jpg" width="24" height="24" />
+<ul class="library_list">
+  <li><a href="herb/sonota/a/a-thi.html">アーティチョーク</a></li>
+  <li><a href="herb/sonota/a/anisu.html">アニスヒソップ</a></li>
+  <li><a href="herb/sonota/a/aklanet.html">アルカネット</a></li>
+  <li><a href="herb/a/aloe.html">アロエ</a></li>
+  <li><a href="herb/a/aroma.html">アロマティカス</a></li>
+  <li><a href="herb/sonota/a/angelica.html">アンゼリカ</a></li>
+  <li><a href="herb/sonota/a/paseri.html">イタリアンパセリ</a></li>
+  <li><a href="herb/sonota/a/echina.html">エキナセア</a></li>
+  <li><a href="herb/sonota/a/eri.html">エリキャンペーン</a></li>
+  <li><a href="herb/sonota/a/elder.html">エルダー</a></li>
+  <li><a href="herb/sonota/a/olive.html">オリーブ</a></li>
+  <li><a href="herb/a/oregano.html">オレガノ</a></li>
+</ul>
+  </div>
+<div class="library_table_c">
+<img src="../../image/liblary_navi_ka.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/ka/kamiture.html">カモミール</a></li>
+    <li><a href="herb/sonota/ka/kare.html">カレープラント</a></li>
+    <li>
+      <a href="herb/ka/cat.html">キャットニップ</a></li>
+    <li><a href="herb/sonota/ka/kyarawei.html">キャラウェイ </a></li>
+    <li><a href="herb/ka/kureson.html">クレソン</a></li>
+    <li><a href="herb/sonota/ka/red.html">クローバーレッド </a></li>
+    <li><a href="herb/ka/marrow.html">コモンマロウ</a></li>
+    <li><a href="herb/ka/cori.html">コリアンダー</a></li>
+    <li><a href="herb/sonota/ka/konfuri.html">コンフリー </a></li>
+  </ul>
+</div>
+<div class="library_table_r">
+<img src="../../image/liblary_navi_sa.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/sa/salada.html">サラダバーネット</a></li>
+    <li> <a href="herb/sonota/sa/safurawa-.html">サフラワー</a></li>
+    <li><a href="herb/sonota/sa/safuran.html">サフラン</a></li>
+    <li><a href="herb/sonota/sa/sansyou.html">サンショウ</a></li>
+    <li><a href="herb/sonota/sa/santolina.html">サントリナ</a></li>
+    <li><a href="herb/sonota/sa/san.html">サンフラワー</a></li>
+    <li><a href="herb/sonota/sa/siso.html">シソ</a></li>
+    <li><a href="herb/sonota/sa/jasumin.html">ジャスミン</a></li>
+    <li><a href="herb/sonota/sa/sutebia.html">ステビア</a></li>
+    <li><a href="herb/sa/se-ji.html">セージ</a></li>
+    <li><a href="herb/sa/geranium.html">センテッドゼラニウム</a></li>
+    <li><a href="herb/sa/stjohns.html">セントジョーンズワート</a></li>
+    <li><a href="herb/sonota/sa/soap.html">ソープワート</a></li>
+    <li><a href="herb/sonota/sa/sorel.html">ソレル</a></li>
+  </ul>
+</div>
+</div>
+
+<p> <img src="image/line.gif" width="550" height="1" vspace="20" /></p>
+
+<div id="contents_bar_ad2">
+		<script type="text/javascript"><!--
+		google_ad_client = "ca-pub-5129646742564735";
+		/* ハーブバー_468 */
+		google_ad_slot = "6264659703";
+		google_ad_width = 468;
+		google_ad_height = 15;
+		//-->
+		</script>
+		<script type="text/javascript"
+		src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<div class="library_table">
+<div class="library_table_l">
+<img src="../../image/liblary_navi_ta.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/ta/taimu.html">タイム</a></li>
+    <li><a href="herb/sonota/ta/taragon.html">タラゴン</a></li>
+    <li><a href="herb/sonota/ta/tanji.html">タンジー</a></li>
+    <li><a href="herb/sonota/ta/lion.html">タンデライオン</a></li>
+    <li><a href="herb/sonota/ta/tikori.html">チコリ</a></li>
+    <li><a href="herb/sonota/ta/tya-biru.html">チャービル</a></li>
+    <li><a href="herb/ta/chive.html">チャイブ</a></li>
+    <li><a href="herb/ta/dill.html">ディル</a></li>
+  </ul>
+</div>
+<div class="library_table_c">
+<img src="../../image/liblary_navi_na.jpg" width="24" height="24" /><br />
+ <ul class="library_list">
+    <li>     <a href="herb/sonota/na/nasuta.html">ナスタチウム</a></li>
+    <li><a href="herb/sonota/na/nigela.html">ニゲラ</a></li>
+  </ul>
+</div>
+<div class="library_table_r">
+ <img src="../../image/liblary_navi_ha.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/ha/basil.html">バジル </a></li>
+    <li><a href="herb/ha/heart.html" >ハーツイーズ</a></li>
+    <li><a href="herb/sonota/ha/haibi.html">ハイビスカス</a></li>
+    <li><a href="herb/sonota/ha/hisoppu.html">ヒソップ </a></li>
+    <li><a href="herb/sonota/ha/fennel.html">フェンネル</a></li>
+    <li><a href="herb/sonota/ha/flax.html">フラックス</a></li>
+    <li><a href="herb/ha/bergamoto.html">ベルガモット</a></li>
+    <li><a href="herb/sonota/ha/hoppu.html">ホップ</a></li>
+    <li><a href="herb/sonota/ha/boriji.html">ボリジ</a></li>
+  </ul>
+</div>
+</div>
+
+<p> <img src="image/line.gif" width="550" height="1" vspace="20" /></p>
+
+<div class="library_table">
+<div class="library_table_l_ads">
+<img src="../../image/liblary_navi_ma.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/sonota/ma/masyumarou.html">マシュマロウ</a></li>
+    <li><a href="herb/ma/marjo.html">マジョラム</a> <br />
+      <a href="herb/ma/marry.html">マリーゴールド</a><br />
+      <a href="herb/ma/mint.html" >ミント</a>
+      
+    </li>
+  </ul>
+  <div id="gad_library_338_280">
+  <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- ハーブ_res_338_280_library -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5129646742564735"
+     data-ad-slot="1643066867"
+     data-ad-format="auto"></ins>
+  <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+  
+</div>
+<div class="library_table_c">
+<img src="../../image/liblary_navi_ya.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/sonota/ya/yarrow.html">ヤロウ </a></li>
+    <li><a href="herb/sonota/ya/yu-kari.html">ユーカリ</a></li>
+  </ul>
+</div>
+<div class="library_table_r">
+<img src="../../image/liblary_navi_ra.jpg" width="24" height="24" /><br />
+<ul class="library_list">
+    <li>      <a href="herb/ra/lavender.html">ラベンダー</a></li>
+    <li><a href="herb/ra/lamb.html">ラムズイヤー</a></li>
+    <li><a href="herb/sonota/ra/linden.html">リンデン</a></li>
+      <li><a href="herb/sonota/ra/ru.html">ルー</a></li>
+    <li><a href="herb/sonota/ra/ruba-bu.html">ルバーブ</a></li>
+    <li><a href="herb/sonota/ra/lady.html">レディースマントル</a></li>
+    <li><a href="herb/sonota/ra/gurasu.html">レモングラス </a></li>
+    <li><a href="herb/ra/vervena.html">レモンバーベナ</a></li>
+    <li><a href="herb/ra/melissa.html">レモンバーム</a></li>
+    <li><a href="herb/ra/bara.html">ローズ</a></li>
+    <li><a href="herb/ra/rosemary.html">ローズマリー</a></li>
+    <li><a href="herb/sonota/ra/laurel.html">ローリエ</a></li>
+    <li><a href="herb/ra/rocket.html" >ロケット</a></li>
+  </ul>
+</div>
+</div>
+
+<p> <img src="image/line.gif" width="550" height="1" vspace="20" /></p>
+
+<div class="library_table">
+<div class="library_table_l_wa">
+  <img src="../../image/liblary_navi_wa.jpg" width="24" height="24" />
+<ul class="library_list">
+       <li><a href="herb/sonota/wa/wild.html">ワイルドストロベリー</a></li>
+  </ul>
+</div>
+<div class="library_table_c"><br />
+<ul class="library_list">
+    <li><a href="../contents/aroma/seiyu.html">精油成分一覧</a><a href="../contents/rilax/ichiran.html"><br />
+      効果一覧</a></li>
+    <li><a href="http://www.myherb.jp/main/contents/rilax/kounou.html">効能一覧</a></li>
+    <li><a href="http://www.myherb.jp/main/contents/rilax/riyou.html">利用法一覧</a></strong></li>
+  </ul>
+</div>
+</div>
+
+</div><br clear="all">
+		<!-- InstanceEndEditable -->
+    </div>
+    
+<div class="recommend">
+<h5 class="outbrain">一緒に読まれている記事</h5>
+<div data-src="DROP_PERMALINK_HERE" class="OUTBRAIN" ></div>
+<script type="text/javascript">(function(){window.OB_platformType=8;window.OB_langJS="http://widgets.outbrain.com/lang_ja.js";window.OBITm="1429662580427";window.OB_recMode="brn_strip";var ob=document.createElement("script");ob.type="text/javascript";ob.async=true;ob.src="http"+("https:"===document.location.protocol?"s":"")+"://widgets.outbrain.com/outbrainLT.js";var h=document.getElementsByTagName("script")[0];h.parentNode.insertBefore(ob,h);})();</script>
+<input type="hidden" name="OBKey" value="Uh3pm4vwcXXWimbpau1fAw=="/> <script LANGUAGE="JavaScript">var OBCTm='1429662580448'; </script><script LANGUAGE="JavaScript" src="http://widgets.outbrain.com/claim.js"></script>
+</div>
+    
+    </div>
+    <!--中央コンテンツここまで-->
+        
+	<div id="right_contents"><!--右コンテンツ--><!-- #BeginLibraryItem "/Library/right_column.lbi" --><!--グーグルアドセンス-->
+<div id="ad_160_600">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ハーブ_res_160_600 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5129646742564735"
+     data-ad-slot="5883293261"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><br clear="all">
+
+<!-- 新着レシピ　ここから -->
+<div class="ossm">
+  <h3>新着レシピ</h3>
+  <div class="pk">
+<IFRAME src="http://recipe.myherb.jp/recipe/new2.cgi" width="200" height="430px" frameborder="0"></IFRAME>
+</div>
+  <div class="ossmbtm">&nbsp;</div>
+</div>
+<!-- 新着レシピ　ここまで -->
+
+<div class="siryou_t">
+<img src="../../image/top_title_library.jpg" alt="ハーブ資料" width="130" height="52" />
+</div>
+			<p class="right_pdf_download free_download"><a href="../contents/rilax/kounou/rilax.pdf" target="_blank">利用法別ハーブの効能一覧</a></p>
+			<p class="right_pdf_download free_download"><a href="../contents/rilax/kouyou/kaori.pdf" target="_blank">ハーブ香りの効能一覧</a></p>
+<p class="right_pdf_download free_download"><a href="../contents/rilax/bus/list.pdf" target="_blank">ハーブバス効能一覧</a></p>
+			<p class="right_pdf_download free_download"><a href="../contents/aroma/seiyu/seiyu.pdf" target="_blank">ハーブ精油 香りの強さ一覧</a></p>
+<p class="right_pdf_download free_download"><a href="../contents/aroma/7_seiyu/seiyu_7.pdf" target="_blank">精油の７分類・香りのタイプとノート</a> </p>
+ <p class="right_pdf_download free_download"><a href="http://www.myherb.jp/image/text/aroma_2.pdf" target="_blank">アロマテラピー検定２級　全300問</a></p>
+<p class="right_pdf_download free_download"><a href="http://www.myherb.jp/image/text/aroma_1.pdf" target="_blank">アロマテラピー検定１級　全330問</a></p><!-- #EndLibraryItem --></div>
+<!--右コンテンツここまで-->
+
+    <!--ボトムアド開始-->
+    <div id="bottom_ad">
+<!-- admax -->
+<script type="text/javascript" src="http://adm.shinobi.jp/s/d99091a91e121a0603a9dde36e0ea3c4"></script>
+<!-- admax -->
+    </div><!--ボトムアド終了-->
+    
+</div>
+<!--contents ここまで--><!-- #BeginLibraryItem "/Library/footer.lbi" -->	<!--フッター開始-->
+	<div id="footer_sitemap">
+		<div id="footer_sitemap_wrap">
+			<div class="footer_sitemap_box">
+				<p class="footer_sitemap_green"><a href="/main/library/library.html">ハーブ図鑑</a></p>
+				<p>&nbsp;</p>
+				<p class="footer_sitemap_green"><a href="http://www.herbshop.jp/" target="_blank">ハーブを買う</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=108" target="_blank">ハーブ種・苗</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=114" target="_blank">飲み物</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=117" target="_blank">料理</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=123" target="_blank">アロマテラピー</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=130" target="_blank">アロマキャンドル</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=134" target="_blank">ボディ＆ヘアケア</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=142" target="_blank">空気清浄器</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=148" target="_blank">ポプリ・サシェ</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=149" target="_blank">安眠グッズ</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=150" target="_blank">アロマ雑貨</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=151" target="_blank">ハーブサプリメント</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=152" target="_blank">アクセサリー</a></p>
+				<p><a href="http://www.herbshop.jp/_pc/list_goods.php?flg=r&si=153" target="_blank">書籍</a></p>
+			</div>
+			<div class="footer_sitemap_box">
+				<p class="footer_sitemap_green"><a href="../contents/saibai/tuti.html">ハーブの育て方</a></p>
+				<p><a href="../contents/saibai/tuti.html">土選び</a></p>
+				<p><a href="../contents/saibai/seed.html">種まきと植え付け</a></p>
+				<p><a href="../contents/saibai/mabiki.html">間引き方法</a></p>
+				<p><a href="../contents/saibai/fuyasu.html">ハーブを殖やす</a></p>
+				<p><a href="../contents/saibai/hiryou.html">肥料と水やり</a></p>
+				<p><a href="../contents/saibai/byouki.html">病害虫対策</a></p>
+				<p><a href="../contents/saibai/syuukaku.html">収穫と保存</a></p>
+				<p><a href="../contents/saibai/syuukaku_2.html">ハーブ別収穫方法</a></p>
+				<p><a href="../contents/saibai/fuyugosi.html">冬越し</a></p>
+				<p><a href="../contents/saibai/plants.html">ハーブと野菜の共栄</a></p>
+				<p><a href="../contents/saibai/point.html">育て方のポイント</a></p>
+				<p><a href="../contents/saibai/check.html">ハーブ健康チェック</a></p>
+				<p><a href="../contents/saibai/yougo.html">ガーデニング用語集</a></p>
+				<p>&nbsp;</p>
+				<p class="footer_sitemap_green"><a href="http://www.myherb.jp/main/information/herbgarden.html" target="_blank">ハーブ園・ガーデン</a></p>
+			</div>
+			<div class="footer_sitemap_box">
+				<p class="footer_sitemap_green"><a href="../contents/rilax/index.html">ハーブの特徴と効果</a></p>
+				<p><a href="../contents/rilax/index.html">ハーブとは</a></p>
+				<p><a href="../contents/rilax/rilax.html">ハーブの定義</a></p>
+				<p><a href="../contents/aroma/kouyou.html">香りの効用</a></p>
+				<p><a href="../contents/aroma/seiyu.html">精油成分</a></p>
+				<p><a href="../contents/rilax/ichiran.html">効果一覧</a></p>
+				<p><a href="../contents/rilax/kounou.html">効能一覧</a></p>
+				<p><a href="../contents/rilax/riyou.html">利用法一覧</a></p>
+				<p>&nbsp;</p>
+				<p class="footer_sitemap_green">ハーブの使い方</p>
+				<p><a href="../contents/aroma/aroma.html">アロマテラピー</a></p>
+				<p><a href="../contents/tea/tea.html">ハーブティー</a></p>
+				<p><a href="../contents/rilax/bus.html">ハーバルバス</a></p>
+				<p><a href="../contents/tea/popuri_1.html">ポプリ</a></p>
+				<p>&nbsp;</p>
+				<p class="footer_sitemap_green"><a href="../information/news.html">News</a></p>
+			</div>
+			<div class="footer_sitemap_box">
+				<p class="footer_sitemap_green"><a href="../contents/rekisi/rekisi.html">ハーブの歴史</a></p>
+				<p><a href="../contents/rekisi/rekisi.html">古代Ⅰ</a></p>
+				<p><a href="../contents/rekisi/kodai2.html">古代Ⅱ</a></p>
+				<p><a href="../contents/rekisi/kodai3.html">古代Ⅲ</a></p>
+				<p><a href="../contents/rekisi/tyuusei1.html">中世Ⅰ</a></p>
+				<p><a href="../contents/rekisi/tyuusei2.html">中世Ⅱ</a></p>
+				<p><a href="../contents/rekisi/tyuusei3.html">中世Ⅲ</a></p>
+				<p><a href="../contents/rekisi/tyuusei4.html">中世Ⅳ</a></p>
+				<p><a href="../contents/rekisi/kinsei1.html">近世Ⅰ</a></p>
+				<p><a href="../contents/rekisi/kinsei2.html">近世Ⅱ</a></p>
+				<p>&nbsp;</p>
+				<p class="footer_sitemap_green"><a href="../contents/hanakotoba/hana_1.html">ハーブの花言葉</a></p>
+				<p><a href="../contents/hanakotoba/hana_1.html">～愛～</a></p>
+				<p><a href="../contents/hanakotoba/hana_2.html">～幸福・別れ～</a></p>
+				<p><a href="../contents/hanakotoba/hana_3.html">～性格～</a></p>
+				<p><a href="http://click.linksynergy.com/fs-bin/click?id=bgc9kCxURgk&offerid=36671.10004633&type=3&subid=0" rel="nofollow" target="_blank">花言葉辞典</a></p>
+			</div>
+			<div class="footer_sitemap_box">
+				<p><a href="../exam/index.html">アロマテラピー検定</a></p>
+				<p><a href="../information/sankou.html">参考文献</a></p>
+				<p><a href="">ハーブの資料集</a></p>
+				<p>&nbsp;</p>
+				<p><a href="../gallery/appli.html" rel="nofollow" target="_blank">無料スマホアプリ</a></p>
+				<p><a href="../../cgi-bin/calendar/index.html" target="_blank">オリジナル壁紙作成</a></p>
+				<p><a href="http://www.facebook.com/myherb.jp" rel="nofollow" target="_blank">Facebook</a></p>
+				<p><a href="http://photo.myherb.jp" target="_blank">ハーブ写真投稿</a></p>
+				<p><a href="http://recipe.myherb.jp/" target="_blank">ハーブレシピクッキング</a></p>
+                <p>&nbsp;</p>
+				<p><a href="../link/link.html">相互リンク</a></p>
+				<p><a href="../information/menseki.html">ご注意・免責事項</a></p>
+				<p><a href="../sitemap/sitemap.html">サイトマップ</a></p>
+				<p><a href="http://form1.fc2.com/form/?id=249691">お問い合わせ</a></p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+	  <p class="footer_link"><a href="../sitemap/sitemap.html">サイトマップ</a>　<a href="../information/menseki.html">免責事項</a>　<a  rel="nofollow"href="http://form1.fc2.com/form/?id=249691">お問い合わせ</a></p>
+	<p>&nbsp;</p>
+<div id="footer_smp">
+	  <p>…………………………………………………</p>
+	<p>&nbsp;</p>
+		<p>
+		【運営サイト】<br />
+		管理人の運営している姉妹サイトです。
+		</p>
+	<p>&nbsp;</p>
+		<p>
+		・<a href="http://www.hamuster.com/" target="_blank">ハムスター.com</a>　・<a rel="nofollow" href="http://www.kensyousite.com/" target="_blank">懸賞サイト.com</a>　・<a href="http://www.sikyou.com/" target="_blank">株式市況.com</a>　・<a href="http://fxblog1.com/" target="_blank">ＦＸブログ</a><br />
+		・<a href="http://www.systemtrade1.com/" target="_blank">ＦＸ自動売買（システムトレード）</a>　・<a href="http://www.fx-mobile.info/" target="_blank">スマートフォンでＦＸ</a>　・<a href="http://www.virtualcurrency.jp/" target="_blank">仮想通貨</a>　</p>
+	<p>&nbsp;</p>
+	  <p>…………………………………………………</p>
+	<p>&nbsp;</p>
+</div>
+	  <p>当ホームページ上のいかなる情報も、医療上の効能を謳ったものではありません。<br />
+	    心身の状態がすぐれないときは、すみやかに医師の診断を受けるようにしてください。</p>
+	<p>&nbsp;</p>
+	  <p>株式会社サイバーネット　〒180-0004 東京都武蔵野市吉祥寺本町1-38-2　<a href="mailto:kamiturejp@yahoo.co.jp">kamiturejp@yahoo.co.jp</a></p>
+	<p>&nbsp;</p>
+	  <p>Copyright(C) Cybernet. All Rights Reserved. <br />
+	    ※当サイトに脱法ハーブの情報は一切掲載してありません。<br />
+	  </p>
+      	<p class="uni"><a href="http://www.unilab.co.jp/" target="_blank" title="ウェブデザイン・ウェブ制作・CMS・ショッピングシステム・ホームページ更新　ユニインターネットラボ株式会社"><img src="../../image/uni.gif" alt="ウェブデザイン・ウェブ制作・CMS・ショッピングシステム・ホームページ更新　ユニインターネットラボ株式会社" /></a></p>
+</div><!--フッター終了--><!-- #EndLibraryItem --><ul id="btn_fixed">
+            <li id="btn_fixed_facebook"><a href="https://www.facebook.com/myherb.jp" target="_blank">ハーブ大好き集まれ！</a></li>
+            <li id="btn_fixed_sns"><a href="http://photo.myherb.jp/" target="_blank">ハーブSNS</a></li>
+            <li id="btn_fixed_shoppingmall"><a href="http://www.herbshop.jp/" target="_blank">ハーブとアロマのお店</a></li>
+    </ul>
+
+</div>
+<p id="page-top"><a href="#wrap">PAGE TOP↑</a></p>
+</body>
+<!-- InstanceEnd --></html>
